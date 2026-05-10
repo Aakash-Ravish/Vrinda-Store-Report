@@ -1,7 +1,7 @@
 # 🛍️ Vrinda Store Sales Report - Excel Analysis
 
 ## Overview
-An end-to-end sales data analysis for Vrinda Store (2022), examining customer demographics,
+An end-to-end sales data analysis for Vrinda Store, examining customer demographics,
 channel performance, and regional trends to uncover actionable business insights.
 
 ## 📊 Dashboard Preview
