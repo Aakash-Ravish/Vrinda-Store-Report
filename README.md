@@ -5,7 +5,7 @@ An end-to-end sales data analysis for Vrinda Store (2022), examining customer de
 channel performance, and regional trends to uncover actionable business insights.
 
 ## 📊 Dashboard Preview
-![Store Report](vrinda_dashboard.png)
+![Store Report](vrinda_dashboard.jpeg)
 
 ## 🛠 Tools Used
 - Microsoft Excel
