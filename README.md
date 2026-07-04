@@ -16,7 +16,7 @@ channel performance, and regional trends to uncover actionable business insights
 ## 📁 Files
 | File | Description |
 |------|-------------|
-| `Vrinda_Store_Report.xlsx` | Full Excel workbook with raw data, analysis & insights |
+| [`Vrinda Store's Report.xlsx`](Vrinda%20Store's%20Report.xlsx) | Full Excel workbook with raw data, analysis & insights |
 
 ## 💡 Key Insights
 
